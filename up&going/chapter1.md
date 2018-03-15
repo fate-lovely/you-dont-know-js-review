@@ -6,7 +6,7 @@
 #### output & input
 调试必备的console.log(),之前一直没有想过到底是什么含义，今天才知道，console是一个对象，而log只是其中的一个函数，在控制台直接输入console会发现还有很多方法。例如:console.info()，console.error()。上次还学到一个，可以用console.table(object),这样可以很直观的看到对象里的内容。
 e.g
-![http://ww1.sinaimg.cn/large/9bd18299gy1fpdr5k83y3j20hh04w3yp](img)
+![](http://ww1.sinaimg.cn/large/9bd18299gy1fpdr5k83y3j20hh04w3yp)
 
 #### Operators
 - Object Property Access: . as in console.log()
