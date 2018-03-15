@@ -8,11 +8,11 @@
 e.g
 ![http://ww1.sinaimg.cn/large/9bd18299gy1fpdr5k83y3j20hh04w3yp](img)
 
-####Operators
+#### Operators
 - Object Property Access: . as in console.log()
 - obj.a means an object value called obj with a property of the name a. Properties can alternatively be accessed as obj["a"]
 
-####Values & Types
+#### Values & Types
 - 基础类型
   - number
   - string
@@ -34,11 +34,11 @@ coercion 强制多态是编译程序程序的一种。通过语义操作，把�
 
 说到类型这里就必须要说一下上文中的操作符，其中有==，===那这两个有什么区别呢，举个例子：
 
-'99.99' == 99.99，这种情况下，js会把左边的字符串转为数字的99.99,因此这样作比对，结果肯定是true。
+'99.99'99.99，这种情况下，js会把左边的字符串转为数字的99.99,因此这样作比对，结果肯定是true。
 
 Note: For more information on coercion, see Chapter 2 of this title and Chapter 4 of the Types & Grammar title of this series.
 
-####Code Comments
+#### Code Comments
 
 //single line comment
 
